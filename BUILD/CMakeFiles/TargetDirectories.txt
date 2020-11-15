@@ -1,0 +1,3 @@
+C:/Users/thesm/Desktop/Fullsail/Graphics-II.Final/Project/out/build/x64-Release/CMakeFiles/FinalWObjLoader.dir
+C:/Users/thesm/Desktop/Fullsail/Graphics-II.Final/Project/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/thesm/Desktop/Fullsail/Graphics-II.Final/Project/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
